@@ -1,1 +1,1 @@
-# CMPE297-SpecialTopics-DL
+# CMPE297-Special Topics-Emerging Technologies in ML
