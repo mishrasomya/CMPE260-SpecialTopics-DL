@@ -1,6 +1,6 @@
-**CMPE 297 Short Story Assignment on Survey paper **
+**CMPE 297 Short Story Assignment on Survey paper**
 
-Article Title: Decoding Efficient Deep Learning- Path to Smaller, Faster, and Better Models
+**Article Title:** Decoding Efficient Deep Learning- Path to Smaller, Faster, and Better Models
 
 [Survey Paper](https://arxiv.org/pdf/2106.08962.pdf)
 
